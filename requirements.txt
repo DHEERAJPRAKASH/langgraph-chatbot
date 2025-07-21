@@ -1,0 +1,10 @@
+Django>=4.2.0
+python-decouple>=3.8
+langgraph
+arxiv
+langchain_community
+langchain_groq
+wikipedia
+tavily-python
+langchain_core
+typing_extensions
